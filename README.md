@@ -11,10 +11,4 @@ Meliputi
   <li>Pendataan buku</li>
   </ul>
   
-  <pre>
-  '''php
-  <?php
-        echo "Hello world!";
-    ?>
-
-</pre>
+ 
