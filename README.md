@@ -12,10 +12,7 @@ Meliputi
   </ul>
   
  
-###Blockquotes
+###Install 
 
-> Blockquotes
+> composer install Haxors-Library-Apps
 
-Paragraphs and Line Breaks
-                    
-> "Blockquotes Blockquotes", [Link](http://localhost/)。
