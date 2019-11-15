@@ -12,7 +12,4 @@ Meliputi
   </ul>
   
  
-###Install 
-
-> composer install Haxors-Library-Apps
 
